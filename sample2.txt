@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 Adding The Second LIne in the sample2.txt in branch 1 
 
+Adding the third line 
